@@ -3,33 +3,22 @@
 📌 Project Overview
 
 This project focuses on analyzing car data from AckoDrive to extract meaningful insights about pricing, car features, fuel types, brands, and market trends.
-
 The goal of this project is to perform Exploratory Data Analysis (EDA) and derive business insights that can help understand:
 
 Car price distribution
-
 Brand-wise performance
-
 Fuel type preferences
-
 Transmission trends
-
 Feature impact on pricing
-
 This project demonstrates practical data analysis skills using Python.
 
 🎯 Problem Statement
 
 The automobile market consists of various car brands, models, fuel types, and pricing categories. Understanding these factors is important for:
-
 Identifying popular car segments
-
 Analyzing price variations across brands
-
 Understanding fuel type demand
-
 Supporting data-driven business decisions
-
 This project analyzes real car dataset to uncover these patterns.
 
 🛠️ Tech Stack
