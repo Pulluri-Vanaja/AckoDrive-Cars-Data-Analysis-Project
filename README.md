@@ -7,6 +7,7 @@ The objective of this project is to perform comprehensive Exploratory Data Analy
 
 This project demonstrates strong data analysis, visualization, and business interpretation skills using Python.
 
+
 🎯 Business Objective
 
 The automobile market includes multiple brands, price segments, fuel types, and transmission options. Understanding these patterns helps businesses:
@@ -21,10 +22,10 @@ Compare manual vs automatic transmission trends
 
 Support data-driven strategic decisions
 
+
 🛠️ Tech Stack
 
 🐍 Python
-
 📊 Pandas – Data manipulation and analysis
 
 🔢 NumPy – Numerical computations
@@ -35,12 +36,14 @@ Support data-driven strategic decisions
 
 📓 Jupyter Notebook – Development environment
 
+
 🔄 Project Workflow
 1️⃣ Data Loading
 
 Imported dataset
 
 Inspected structure and data types
+
 
 2️⃣ Data Cleaning
 
@@ -51,6 +54,7 @@ Removed duplicate records
 Standardized column formats
 
 Corrected inconsistent data entries
+
 
 3️⃣ Exploratory Data Analysis (EDA)
 
@@ -64,6 +68,7 @@ Transmission type analysis
 
 Feature-based pricing patterns
 
+
 4️⃣ Data Visualization
 
 Histograms for price distribution
@@ -74,6 +79,7 @@ Boxplots for price spread
 
 Count plots for categorical features
 
+
 5️⃣ Business Insights & Interpretation
 
 Derived actionable insights from visual patterns
@@ -81,6 +87,7 @@ Derived actionable insights from visual patterns
 Identified market segmentation
 
 Highlighted pricing trends
+
 
 📊 Key Analysis Performed
 
@@ -94,6 +101,7 @@ Highlighted pricing trends
 
 📌 Identification of budget vs premium segments
 
+
 📈 Key Insights
 
 🚘 Automatic transmission cars tend to have higher average prices
@@ -105,6 +113,7 @@ Highlighted pricing trends
 🏆 Certain brands dominate the premium segment
 
 📊 Market distribution shows strong clustering in mid-range pricing
+
 
 🚀 Project Highlights
 
@@ -120,6 +129,7 @@ Highlighted pricing trends
 
 ✔ Strong Data Cleaning & Interpretation
 
+
 🔮 Future Enhancements
 
 🚗 Build a Car Price Prediction Machine Learning Model
@@ -132,6 +142,7 @@ Highlighted pricing trends
 
 🤖 Integrate ML-based Recommendation System
 
+
 📂 Project Structure
 AckoDrive-Cars-Analysis/
 │
@@ -139,6 +150,8 @@ AckoDrive-Cars-Analysis/
 ├── notebooks/            # Jupyter notebook
 ├── visuals/              # Generated plots (if saved)
 ├── README.md             # Project documentation
+
+
 🎯 Conclusion
 
 This project demonstrates the ability to transform raw automobile data into structured insights through systematic data analysis.
