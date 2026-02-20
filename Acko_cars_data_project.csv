@@ -1,0 +1,539 @@
+Index,Brand,Price,Model,Version,Seater,Transmission,Fuel_Type,Vehicle_Type
+0,Hyundai,1656,Creta,1.5 EX Diesel,5,Manual,Diesel,SUV
+1,Hyundai,906,Venue,1.2 E,5,Manual,Petrol,SUV
+2,Kia,946,Sonet,1.2 HTE(O),5,Manual,Petrol,SUV
+3,Kia,1020,Syros,1.0 HTK Turbo,5,Manual,Petrol,SUV
+4,Maruti Suzuki,896,Baleno,1.2 Delta AMT,5,Automatic,Petrol,Hatchback
+5,Maruti Suzuki,1340,Brezza,ZXi,5,Manual,Petrol,SUV
+6,Maruti Suzuki,1467,Grand Vitara,Delta,5,Manual,Petrol,SUV
+7,Mahindra,2098,XUV700,2.2 AX3 Diesel,7,Manual,Diesel,SUV
+8,Mahindra,2256,Scorpio-N,2.0 Z8 Petrol,7,Manual,Petrol,SUV
+9,Tata,1045,Punch,Creative S,5,Manual,Petrol,SUV
+10,Tata,1310,Nexon,1.2 Creative Plus S,5,Manual,Petrol,SUV
+11,Tata,2031,Curvv EV,Accomplished 55,5,Automatic,Electric,SUV
+12,Maruti Suzuki,1003,Swift,ZXi Plus,5,Manual,Petrol,Hatchback
+13,Hyundai,671,Grand i10 Nios,1.2 Era,5,Manual,Petrol,Hatchback
+14,Hyundai,844,Aura,1.2 S,5,Manual,Petrol,Sedan
+15,Maruti Suzuki,619,Wagon R,1.0 LXi,5,Manual,Petrol,Hatchback
+16,Tata,980,Altroz,1.2 XZ,5,Manual,Petrol,Hatchback
+17,Maruti Suzuki,623,Celerio,LXi,5,Manual,Petrol,Hatchback
+18,Maruti Suzuki,743,Dzire (2020-2024),LXi,5,Manual,Petrol,Sedan
+19,Honda,1431,City,1.5 SV-R,5,Manual,Petrol,Sedan
+20,Maruti Suzuki,1109,Ciaz,1.5 Delta MT,5,Manual,Petrol,Sedan
+21,Renault,1058,Kiger,RXZ AMT,5,Automatic,Petrol,SUV
+22,Renault,703,Triber,1.0 RXE,7,Manual,Petrol,MPV/MUV
+23,Renault,565,Kwid,1.0 RXL(O),5,Manual,Petrol,Hatchback
+24,Tata,1486,Nexon EV,Creative 45,5,Automatic,Electric,SUV
+25,Hyundai,1134,i20 N Line,N6,5,Manual,Petrol,Hatchback
+26,Toyota,885,Glanza,S,5,Manual,Petrol,Hatchback
+27,Nissan,858,Magnite (2020-2024),XL AMT,5,Automatic,Petrol,SUV
+28,Maruti Suzuki,1279,Ertiga,VXi CNG,7,Manual,CNG,SUV
+29,Maruti Suzuki,1341,XL6,Zeta,6,Manual,Petrol,SUV
+30,Maruti Suzuki,556,Alto K10,LXi (O),4,Manual,Petrol,Hatchback
+31,Hyundai,1415,Venue N-Line,N6,5,Manual,Petrol,SUV
+32,Mahindra,1767,Marazzo,M2,7,Manual,Diesel,MPV/MUV
+33,Hyundai,3414,Tucson,2.0 Platinum AT Petrol,5,Automatic,Petrol,SUV
+34,Maruti Suzuki,643,Eeco,7 STR STD,5,Manual,Petrol,Minivan/Van
+35,Kia,1575,Carens,1.5 Prestige Turbo iMT 7 STR Petrol,7,Manual,Petrol,SUV
+36,Toyota,1478,Urban Cruiser Hyryder,Neodrive S,5,Manual,Petrol,SUV
+37,Honda,1490,Elevate,V-R,5,Manual,Petrol,SUV
+38,Toyota,1357,Rumion,G Neo Drive,7,Manual,Petrol,SUV
+39,Toyota,2400,Innova Crysta,GX 7 STR,8,Manual,Diesel,SUV
+40,MG,2650,ZS EV,Exclusive Plus,5,Automatic,Electric,SUV
+41,MG,2072,Hector Plus,2.0 Style 6 STR Diesel,7,Manual,Diesel,SUV
+42,MG,1922,Hector,1.5 Shine Pro,5,Manual,Petrol,SUV
+43,MG,4632,Gloster,2.0 Sharp 7 STR,7,Automatic,Diesel,SUV
+44,MG,741,Comet EV,Executive,4,Automatic,Electric,Hatchback
+45,MG,1125,Astor,1.5 Sprint,5,Manual,Petrol,SUV
+46,Kia,1293,Seltos,1.5 HTE (O),5,Manual,Petrol,SUV
+47,Tata,1320,Tigor EV,XE,5,Automatic,Electric,Sedan
+48,Skoda,1807,Slavia,1.0 Prestige,5,Manual,Petrol,Sedan
+49,Skoda,2217,Kushaq,1.5 Prestige DSG,5,Automatic,Petrol,SUV
+50,Hyundai,753,Exter,1.2 EX(O),5,Manual,Petrol,SUV
+51,Maruti Suzuki,840,Fronx,1.2 Sigma,5,Manual,Petrol,SUV
+52,Maruti Suzuki,2916,Invicto,Zeta Plus 7 STR,7,Automatic,Petrol,SUV
+53,Hyundai,1446,Verna,1.5 S MT,5,Manual,Petrol,Sedan
+54,Skoda,4645,Kodiaq,L&K,7,Automatic,Petrol,SUV
+55,Tata,2056,Harrier,Pure (O),5,Manual,Diesel,SUV
+56,Mahindra,1693,Scorpio Classic,2.2 S 7STR,7,Manual,Diesel,SUV
+57,Hyundai,889,i20,1.2 Magna MT,5,Manual,Petrol,Hatchback
+58,Tata,1331,Punch EV,Empowered 3.3,5,Automatic,Electric,SUV
+59,Mahindra,1961,XUV400,EL Pro 34.5 kWh,5,Automatic,Electric,SUV
+60,Maruti Suzuki,1458,Jimny,Zeta,4,Manual,Petrol,SUV
+61,Mahindra,1349,XUV 3XO,1.2 AX5,5,Manual,Petrol,SUV
+62,Toyota,871,Urban Cruiser Taisor,1.2 E,5,Manual,Petrol,SUV
+63,Maruti Suzuki,641,Ignis,1.2 Sigma MT,5,Manual,Petrol,Hatchback
+64,Hyundai,1970,Creta N Line,N8,5,Manual,Petrol,SUV
+65,Maruti Suzuki,578,S-Presso,1.0 VXi,4,Manual,Petrol,SUV
+66,Volkswagen,1348,Virtus,1.0 Comfortline,5,Manual,Petrol,Sedan
+67,Volkswagen,1365,Taigun,1.0 Comfortline,5,Manual,Petrol,SUV
+68,Mahindra,1163,Bolero,B4,7,Manual,Diesel,SUV
+69,Mahindra,1441,Thar,1.5 AX(O) Hard Top Diesel,4,Manual,Diesel,SUV
+70,Tata,2979,Safari,Accomplished Plus Dark Edition,7,Manual,Diesel,SUV
+71,Toyota,5268,Fortuner Legender,2.8 4x2 AT,7,Automatic,Diesel,SUV
+72,Mahindra,1191,Bolero Neo,1.5 N4,7,Manual,Diesel,SUV
+73,Tata,1295,Curvv,1.2 Pure Plus,5,Manual,Petrol,SUV
+74,Hyundai,4772,IONIQ 5,RWD,5,Automatic,Electric,SUV
+75,Toyota,3959,Fortuner,2.7 4x2 MT,7,Manual,Petrol,SUV
+76,Tata,870,Tigor,XT CNG,5,Manual,CNG,Compact Sedan
+77,Tata,1072,Tiago EV,XT LR,5,Automatic,Electric,Hatchback
+78,Honda,922,Amaze,V,5,Manual,Petrol,Sedan
+79,Mahindra,2433,XEV 9e,Pack One,5,Automatic,Electric,SUV
+80,Nissan,764,Magnite,1.0 Visia Plus,5,Manual,Petrol,SUV
+81,Maruti Suzuki,876,Dzire,VXi,5,Manual,Petrol,Sedan
+82,Tata,560,Tiago,XE,5,Manual,Petrol,Hatchback
+83,Mahindra,2116,BE 6,Pack One,5,Automatic,Electric,SUV
+84,Mahindra,1857,Thar Roxx,2.0 MX3 AT,5,Automatic,Petrol,SUV
+85,Skoda,1340,Kylaq,Signature Plus,5,Manual,Petrol,SUV
+86,MG,1495,Windsor EV,Excite,5,Automatic,Electric,SUV
+87,Hyundai,2129,Creta Electric,Premium,5,Automatic,Electric,SUV
+88,Hyundai,1748,Alcazar,Executive,7,Manual,Petrol,SUV
+89,Nissan,920,Magnite (2020-2024),XV Red Edition,5,Manual,Petrol,SUV
+90,Audi,130,e-tron Sportback,55 Technology,5,Automatic,Electric,SUV
+91,Tata,999,Tiago NRG,XZA CNG,5,Automatic,CNG,Hatchback
+92,Porsche,176,718,Cayman Style Edition,2,Automatic,Petrol,Coupe
+93,Mercedes-Benz,5617,A-Class Limousine,200d,5,Automatic,Diesel,Sedan
+94,Porsche,378,911,Turbo S,24,Automatic,Petrol,Coupe
+95,Audi,115,Q7,Technology,7,Automatic,Petrol,SUV
+96,Mercedes-Benz,305,G-Class,G 400 d AMG Line,5,Automatic,Diesel,SUV
+97,Jeep,4217,Meridian,2.0 Limited Plus AT Diesel,57,Automatic,Diesel,SUV
+98,Porsche,154,Cayenne,Base,4,Automatic,Petrol,SUV
+99,Porsche,161,Cayenne Coupe,Base,4,Automatic,Petrol,Coupe
+100,Porsche,169,Macan,S,5,Automatic,Petrol,SUV
+101,Porsche,170,Macan Turbo EV,Electric SUV,5,Automatic,Electric,SUV
+102,Porsche,228,Panamera,G3,4,Automatic,Petrol,Coupe
+103,Porsche,251,Taycan,Turbo S,5,Automatic,Electric,Sedan
+104,BYD,5254,Sealion 7,Premium,5,Automatic,Electric,SUV
+105,BMW,233,M5,Competition,5,Automatic,Petrol,Sedan
+106,Land Rover,7873,Range Rover Evoque,SE R-Dynamic Diesel,5,Automatic,Diesel,SUV
+107,Audi,291,RS Q8 Performance,4.0 TFSI,5,Automatic,Petrol,Hatchback
+108,Land Rover,158,Defender,110 X 3.0 Diesel,5,Automatic,Diesel,SUV
+109,Land Rover,146,Discovery,S 3.0 Diesel,7,Automatic,Diesel,SUV
+110,Land Rover,320,Range Rover,SE LWB 4.4 Petrol 7 STR,57,Automatic,Petrol,SUV
+111,Land Rover,189,Range Rover Sport,SE Dynamic 3.0 Petrol,5,Automatic,Petrol,SUV
+112,Lotus,262,Eletre,Standard,4,Automatic,Electric,SUV
+113,McLaren,666,750S,Spider,2,Automatic,Petrol,Coupe
+114,Mercedes-Benz,8604,GLC,300 4MATIC,5,Automatic,Petrol,SUV
+115,Mercedes-Benz,8559,GLB,220d 4MATIC AMG Line,7,Automatic,Diesel,SUV
+116,BYD,2885,eMax 7,Premium 6 STR,67,Automatic,Electric,SUV
+117,Maserati,339,GranTurismo,Trofeo,45,Automatic,Petrol,Coupe
+118,Volvo,121,XC90,B5 Ultra,7,Automatic,Petrol,SUV
+119,Toyota,282,Land Cruiser,GR-S,5,Automatic,Diesel,SUV
+120,Mercedes-Benz,9211,E-Class,E200,5,Automatic,Petrol,Sedan
+121,Skoda,6286,Superb,L&K,5,Automatic,Petrol,Sedan
+122,Kia,140,EV9,GT-Line AWD,6,Automatic,Electric,SUV
+123,Kia,7690,Carnival,Limousine Plus,7,Automatic,Diesel,SUV
+124,Mercedes-Benz,421,AMG G-Class,G 63,5,Automatic,Petrol,SUV
+125,Mercedes-Benz,6487,GLA,220d 4MATIC,5,Automatic,Diesel,SUV
+126,Mercedes-Benz,131,GLE,450d 4MATIC LWB,5,Automatic,Diesel,SUV
+127,Toyota,4556,Hilux,Black Edition,5,Automatic,Diesel,Pick-Up
+128,BMW,7331,3 Series LWB,330Li M Sport,5,Automatic,Petrol,Sedan
+129,Citroen,1454,Aircross,1.2 Plus Turbo 7 STR,57,Manual,Petrol,SUV
+130,Lexus,373,LX,500d Overtrail,5,Automatic,Diesel,SUV
+131,Porsche,241,Taycan Cross Turismo,Turbo S,5,Automatic,Electric,Sedan
+132,Rolls-Royce,813,Cullinan,SUV,5,Automatic,Petrol,SUV
+133,Rolls-Royce,1111,Phantom,Sedan,5,Automatic,Petrol,SUV
+134,Rolls-Royce,802,Spectre,Coupe,4,Automatic,Electric,SUV
+135,Volvo,6512,C40 Recharge,E80,5,Automatic,Electric,SUV
+136,Volvo,5691,XC40 Recharge,Plus,5,Automatic,Electric,SUV
+137,Audi,184,A8 L,Technology,4,Automatic,Petrol,Sedan
+138,BMW,179,M4,Competition,4,Automatic,Petrol,Sedan
+139,Volvo,6023,EX40,Plus,5,Automatic,Electric,SUV
+140,BYD,2586,Atto 3,Dynamic,5,Automatic,Electric,SUV
+141,Force Motors,1972,Gurkha,3 Door (4-Seater),4,Manual,Diesel,SUV
+142,Force Motors,2120,Gurkha 5 Door,7 Seater,7,Manual,Diesel,SUV
+143,Isuzu,2484,V-Cross,Hi-Lander,5,Manual,Diesel,SUV
+144,Maserati,179,Grecale,Modena,5,Automatic,Petrol,SUV
+145,Jeep,8107,Wrangler,Rubicon,5,Automatic,Petrol,SUV
+146,Mercedes-Benz,147,AMG E53 Cabriolet,4MATIC Plus,4,Automatic,Petrol,Convertible
+147,Mercedes-Benz,429,AMG S 63 E Performance,Edition 1,5,Automatic,Petrol,Sedan
+148,Mercedes-Benz,7328,EQB,250 Plus,7,Automatic,Electric,SUV
+149,MINI,5113,Cooper,S,4,Automatic,Petrol,Hatchback
+150,BYD,4726,Seal,Premium,5,Automatic,Electric,Sedan
+151,Audi,7292,A6,Technology 45 TFSI,5,Automatic,Petrol,Sedan
+152,Audi,8012,Q5,Technology 45 TFSI,5,Automatic,Petrol,SUV
+153,Audi,118,Q8 e-tron,50,5,Automatic,Electric,SUV
+154,Audi,136,Q8 Sportback e-tron,55,5,Automatic,Electric,Sedan
+155,Audi,8764,S5 Sportback,3.0 TFSI Quattro,5,Automatic,Petrol,Coupe
+156,BMW,7175,3 Series Gran Limousine,320Ld M Sport,5,Automatic,Diesel,Coupe
+157,BMW,205,7 Series,740i M Sport,5,Automatic,Petrol,Sedan
+158,BMW,7472,i4,eDrive35 M Sport,5,Automatic,Electric,Sedan
+159,BMW,219,i7,xDrive60 M Sport,5,Automatic,Electric,Sedan
+160,BMW,124,iX,xDrive 40,5,Automatic,Electric,SUV
+161,BMW,113,M2,3.0 Petrol,4,Automatic,Petrol,Coupe
+162,BMW,8247,M340i,xDrive,5,Automatic,Petrol,Sedan
+163,BMW,6081,X1,sDrive18d M Sport,25,Automatic,Diesel,SUV
+164,Mercedes-Benz,167,EQS,580 4MATIC,5,Automatic,Electric,Sedan
+165,BMW,9918,X3 M40i,xDrive,5,Automatic,Petrol,SUV
+166,BMW,109,X4 M40i,xDrive,5,Automatic,Petrol,SUV
+167,BMW,114,X5,xDrive30d xLine,25,Automatic,Diesel,SUV
+168,Aston Martin,450,Vantage,V8,2,Automatic,Petrol,Coupe
+169,Citroen,918,Basalt,You,5,Manual,Petrol,SUV
+170,Ferrari,454,F8 Tributo,Berlinetta,2,Automatic,Petrol,Coupe
+171,Citroen,1032,C3,1.2 Shine Turbo,5,Manual,Petrol,SUV
+172,Ferrari,395,Portofino,M,24,Automatic,Petrol,Convertible
+173,Jaguar,8247,F-Pace,S R-Dynamic 2.0 Petrol,5,Automatic,Petrol,SUV
+174,Jaguar,129,I-Pace,HSE,25,Automatic,Electric,Coupe
+175,Jeep,9103,Grand Cherokee,Limited (O) 4x4 AT,5,Automatic,Petrol,SUV
+176,Audi,5511,Q3,40 TFSI Premium Plus,5,Automatic,Petrol,SUV
+177,Aston Martin,518,DB12,4.0-litre,4,Automatic,Petrol,Coupe
+178,Lamborghini,563,Huracan,STO,2,Automatic,Petrol,Coupe
+179,McLaren,420,GT,Coupe,2,Automatic,Petrol,Coupe
+180,Mercedes-Benz,106,AMG A45 S,4Matic Plus,5,Automatic,Petrol,Hatchback
+181,Mercedes-Benz,111,AMG C 43,4MATIC,5,Automatic,Petrol,Sedan
+182,Mercedes-Benz,159,GLS,450d 4MATIC,7,Automatic,Diesel,SUV
+183,BMW,8660,X3,xDrive20d M Sport Shadow Edition,5,Automatic,Diesel,SUV
+184,Mercedes-Benz,378,Maybach GLS,600 4MATIC,5,Automatic,Petrol,SUV
+185,Jeep,3299,Compass,2.0 Model S (O) Diesel,5,Manual,Diesel,SUV
+186,Citroen,4347,C5 Aircross,Shine,5,Automatic,Diesel,SUV
+187,Mercedes-Benz,7458,AMG GLA35,4MATIC,5,Automatic,Petrol,SUV
+188,Mercedes-Benz,6825,EQA,250 Plus,5,Automatic,Electric,SUV
+189,MINI,5668,Countryman Electric,E,5,Automatic,Electric,Hatchback
+190,Toyota,2278,Innova Hycross,2.0 G-SLF 7 STR CVT,78,Automatic,Petrol,SUV
+191,Mercedes-Benz,217,AMG GLE Coupe,53 4Matic Plus,5,Automatic,Petrol,Coupe
+192,Citroen,1296,E-C3,Live,5,Automatic,Electric,SUV
+193,Audi,6185,A4,Technology 40 TFSI,5,Automatic,Petrol,Sedan
+194,Aston Martin,522,DBX,707,5,Automatic,Petrol,SUV
+195,Audi,123,e-tron,55,5,Automatic,Electric,SUV
+196,Audi,177,e-tron GT,S,5,Automatic,Electric,Sedan
+197,Audi,6206,Q3 Sportback,Technology Plus S-line,5,Automatic,Petrol,SUV
+198,Volkswagen,4141,Tiguan,2.0 Elegance TSI AT,25,Automatic,Petrol,SUV
+199,Audi,132,RS5,Sportback,5,Automatic,Petrol,Coupe
+200,BMW,5207,2 Series Gran Coupe,220i M Sport Pro,5,Automatic,Petrol,Coupe
+201,BMW,275,M8,Coupe,4,Automatic,Petrol,Coupe
+202,BMW,103,Z4,M 40i,2,Automatic,Petrol,Convertible
+203,Ferrari,609,296 GTB,3.0 Petrol,2,Automatic,Petrol,Coupe
+204,Ferrari,704,296 GTS,3.0 Petrol,2,Automatic,Petrol,Convertible
+205,Isuzu,4419,MU-X,4x4 AT,7,Automatic,Diesel,SUV
+206,Kia,6805,EV6,GT Line AWD,5,Automatic,Electric,SUV
+207,BMW,6898,iX1,xDrive30 M Sport,5,Automatic,Electric,SUV
+208,Ferrari,424,Roma,Coupe,4,Automatic,Petrol,Coupe
+209,Audi,133,Q8,55 TFSI quattro,5,Automatic,Petrol,SUV
+210,Mahindra,1390,Bolero Neo Plus,P4,9,Manual,Diesel,SUV
+211,Bentley,676,Bentayga,EWB,5,Automatic,Petrol,SUV
+212,Land Rover,100,Range Rover Velar,HSE Dynamic 2.0 Petrol,5,Automatic,Petrol,SUV
+213,Mercedes-Benz,252,AMG EQS,53 4MATIC Plus,5,Automatic,Electric,Sedan
+214,Mercedes-Benz,372,AMG GT 63 S E Performance,Limousine,5,Automatic,Petrol,Sedan
+215,Mercedes-Benz,275,AMG SL55 Roadster,4MATIC Plus,4,Automatic,Petrol,Convertible
+216,Mercedes-Benz,7292,C-Class,C 220d,5,Automatic,Diesel,Sedan
+217,Mercedes-Benz,144,EQE SUV,500 4MATIC,5,Automatic,Electric,SUV
+218,Mercedes-Benz,129,AMG GLC43 Coupe,4MATIC,5,Automatic,Petrol,Coupe
+219,Mercedes-Benz,387,Maybach S-Class,S 680 4MATIC,5,Automatic,Petrol,Sedan
+220,Mercedes-Benz,210,S-Class,S 450 4MATIC,5,Automatic,Petrol,Sedan
+221,MG,2402,Hector Plus (2021-2023),2.0 Smart Turbo 6 STR,67,Manual,Diesel,SUV
+222,Tata,1823,Harrier (2020-2023),2.0 XE,5,Manual,Diesel,SUV
+223,Hyundai,1843,Creta (2023-2024),1.5 SX Executive Diesel,5,Manual,Diesel,SUV
+224,Audi,251,RS Q8 (2020-2025),4.0L TFSI,5,Automatic,Petrol,SUV
+225,Hyundai,2304,Alcazar (2021-2023),1.5 Platinum 7 STR Diesel,67,Manual,Diesel,SUV
+226,Kia,4123,Carnival (2020-2023),Limousine 7 Seater,79,Automatic,Diesel,SUV
+227,Toyota,2147,Innova Crysta (2020-2023),2.7 GX 7 STR Petrol,78,Manual,Petrol,SUV
+228,Maruti Suzuki,956,Swift (2021-2024),ZXi AMT,5,Automatic,Petrol,Hatchback
+229,Honda,1567,City (2020-2023),1.5 V CVT Petrol,5,Automatic,Petrol,Sedan
+230,Hyundai,2473,Alcazar (2023-2024),1.5 Platinum(O) AT 7 STR Diesel,67,Automatic,Diesel,SUV
+231,Mahindra,1319,XUV300,1.2 W8,25,Manual,Petrol,SUV
+232,Tata,1906,Nexon EV Max (2022-2023),XZ Plus 7.2 KW FC,5,Automatic,Electric,SUV
+233,Hyundai,982,Grand i10 Nios (2019-2023),1.2 Asta CNG,5,Manual,CNG,Hatchback
+234,Maruti Suzuki,367,Alto (2019-2023),STD,5,Manual,Petrol,Hatchback
+235,Volkswagen,1353,Virtus (2022-2023),1.0 Comfortline TSI,5,Manual,Petrol,Sedan
+236,Honda,1111,Jazz (2020-2023),VX CVT Petrol,5,Automatic,Petrol,Hatchback
+237,Audi,100,Q7 (2022-2024),Premium Plus 55 TFSI,7,Automatic,Petrol,SUV
+238,Tata,1461,Nexon (2020-2023),1.5 XZ Plus (S) Diesel,5,Manual,Diesel,SUV
+239,Hyundai,1370,Creta (2020-2023),1.5 EX Petrol,5,Manual,Petrol,SUV
+240,Hyundai,1673,Verna (2020-2023),1.5 CRDi SX AT,5,Automatic,Diesel,Sedan
+241,Kia,1467,Carens (2022-2023),1.5 Premium 7 STR Diesel,67,Manual,Diesel,SUV
+242,Hyundai,1106,Aura (2020-2023),1.2 SX+ CRDi AMT,5,Automatic,Diesel,Sedan
+243,Honda,998,Amaze (2021-2024),1.2 S CVT Petrol,5,Automatic,Petrol,Sedan
+244,Honda,1044,WR-V (2020-2023),SV MT Petrol,5,Manual,Petrol,SUV
+245,Tata,2169,Harrier (2023-2023),2.0 XMS,5,Manual,Diesel,SUV
+246,Hyundai,1197,Venue (2022-2023),1.0 S(O) iMT,5,Manual,Petrol,SUV
+247,Volkswagen,2214,Taigun (2021-2023),1.5 GT Plus TSI AT,25,Automatic,Petrol,SUV
+248,Skoda,1683,Slavia (2022-2023),1.0 Style TSI (Non-Sunroof),5,Manual,Petrol,Sedan
+249,Skoda,1822,Kushaq (2021-2023),1.0 Style NSR TSI,5,Manual,Petrol,SUV
+250,Tata,1543,Nexon EV Prime (2020-2023),XM,5,Automatic,Electric,SUV
+251,Hyundai,1190,New i20 (2020-2023),1.0 Asta Turbo GDI iMT,5,Manual,Petrol,Hatchback
+252,Skoda,3591,Octavia (2021-2023),2.0 L&K TSI,5,Automatic,Petrol,Sedan
+253,Skoda,1413,Rapid TSI (2021-2023),Matte Limited Edition,5,Manual,Petrol,Sedan
+254,Kia,1495,Seltos (2023-2023),1.5 HTE iMT Diesel,5,Manual,Diesel,SUV
+255,MG,2155,Hector (2021-2023),2.0 Shine Turbo,5,Manual,Diesel,SUV
+256,Skoda,4390,Superb (2021-2023),2.0 L&K TSI AT,5,Automatic,Petrol,Sedan
+257,Tata,857,Tiago EV (2022-2025),XE Medium,5,Automatic,Electric,Hatchback
+258,Tata,855,Tigor (2020-2025),XM Twin-Cylinder CNG,5,Manual,CNG,Sedan
+259,Hyundai,1433,i20 N Line (2021-2023),1.0 N8 DCT,5,Automatic,Petrol,Hatchback
+260,Kia,1272,Sonet (2020-2023),1.0 HTK Plus DCT,5,Automatic,Petrol,SUV
+261,Citroen,1627,C3 Aircross,1.2 Max Vibe Pack AT,57,Automatic,Petrol,SUV
+262,Tata,730,Tiago (2020-2025),XT,5,Manual,Petrol,Hatchback
+263,MG,1265,Astor (2021-2024),1.5 Style,5,Manual,Petrol,SUV
+264,Kia,1686,Seltos (2022-2023),1.5 HTX IVT,5,Automatic,Petrol,SUV
+265,Tata,749,Tiago NRG (2021-2025),1.2 XT,5,Manual,Petrol,Hatchback
+266,MG,2558,ZS EV (2021-2024),Exclusive Ivory,25,Automatic,Electric,SUV
+267,BMW,199,M4 Competition (2022-2024),M xDrive Coupe,4,Automatic,Petrol,Sedan
+268,Kia,1365,Sonet (2023-2024),1.5 HTK Plus iMT Diesel,5,Manual,Diesel,SUV
+0,Hyundai,1656,Creta,1.5 EX Diesel,5,Manual,Diesel,SUV
+1,Hyundai,906,Venue,1.2 E,5,Manual,Petrol,SUV
+2,Kia,946,Sonet,1.2 HTE(O),5,Manual,Petrol,SUV
+3,Kia,1020,Syros,1.0 HTK Turbo,5,Manual,Petrol,SUV
+4,Maruti Suzuki,896,Baleno,1.2 Delta AMT,5,Automatic,Petrol,Hatchback
+5,Maruti Suzuki,1340,Brezza,ZXi,5,Manual,Petrol,SUV
+6,Maruti Suzuki,1467,Grand Vitara,Delta,5,Manual,Petrol,SUV
+7,Mahindra,2098,XUV700,2.2 AX3 Diesel,7,Manual,Diesel,SUV
+8,Mahindra,2256,Scorpio-N,2.0 Z8 Petrol,7,Manual,Petrol,SUV
+9,Tata,1045,Punch,Creative S,5,Manual,Petrol,SUV
+10,Tata,1310,Nexon,1.2 Creative Plus S,5,Manual,Petrol,SUV
+11,Tata,2031,Curvv EV,Accomplished 55,5,Automatic,Electric,SUV
+12,Maruti Suzuki,1003,Swift,ZXi Plus,5,Manual,Petrol,Hatchback
+13,Hyundai,671,Grand i10 Nios,1.2 Era,5,Manual,Petrol,Hatchback
+14,Hyundai,844,Aura,1.2 S,5,Manual,Petrol,Sedan
+15,Maruti Suzuki,619,Wagon R,1.0 LXi,5,Manual,Petrol,Hatchback
+16,Tata,980,Altroz,1.2 XZ,5,Manual,Petrol,Hatchback
+17,Maruti Suzuki,623,Celerio,LXi,5,Manual,Petrol,Hatchback
+18,Maruti Suzuki,743,Dzire (2020-2024),LXi,5,Manual,Petrol,Sedan
+19,Honda,1431,City,1.5 SV-R,5,Manual,Petrol,Sedan
+20,Maruti Suzuki,1109,Ciaz,1.5 Delta MT,5,Manual,Petrol,Sedan
+21,Renault,1058,Kiger,RXZ AMT,5,Automatic,Petrol,SUV
+22,Renault,703,Triber,1.0 RXE,7,Manual,Petrol,MPV/MUV
+23,Renault,565,Kwid,1.0 RXL(O),5,Manual,Petrol,Hatchback
+24,Tata,1486,Nexon EV,Creative 45,5,Automatic,Electric,SUV
+25,Hyundai,1134,i20 N Line,N6,5,Manual,Petrol,Hatchback
+26,Toyota,885,Glanza,S,5,Manual,Petrol,Hatchback
+27,Nissan,858,Magnite (2020-2024),XL AMT,5,Automatic,Petrol,SUV
+28,Maruti Suzuki,1279,Ertiga,VXi CNG,7,Manual,CNG,SUV
+29,Maruti Suzuki,1341,XL6,Zeta,6,Manual,Petrol,SUV
+30,Maruti Suzuki,556,Alto K10,LXi (O),4,Manual,Petrol,Hatchback
+31,Hyundai,1415,Venue N-Line,N6,5,Manual,Petrol,SUV
+32,Mahindra,1767,Marazzo,M2,7,Manual,Diesel,MPV/MUV
+33,Hyundai,3414,Tucson,2.0 Platinum AT Petrol,5,Automatic,Petrol,SUV
+34,Maruti Suzuki,643,Eeco,7 STR STD,5,Manual,Petrol,Minivan/Van
+35,Kia,1575,Carens,1.5 Prestige Turbo iMT 7 STR Petrol,7,Manual,Petrol,SUV
+36,Toyota,1478,Urban Cruiser Hyryder,Neodrive S,5,Manual,Petrol,SUV
+37,Honda,1490,Elevate,V-R,5,Manual,Petrol,SUV
+38,Toyota,1357,Rumion,G Neo Drive,7,Manual,Petrol,SUV
+39,Toyota,2400,Innova Crysta,GX 7 STR,8,Manual,Diesel,SUV
+40,MG,2650,ZS EV,Exclusive Plus,5,Automatic,Electric,SUV
+41,MG,2072,Hector Plus,2.0 Style 6 STR Diesel,7,Manual,Diesel,SUV
+42,MG,1922,Hector,1.5 Shine Pro,5,Manual,Petrol,SUV
+43,MG,4632,Gloster,2.0 Sharp 7 STR,7,Automatic,Diesel,SUV
+44,MG,741,Comet EV,Executive,4,Automatic,Electric,Hatchback
+45,MG,1125,Astor,1.5 Sprint,5,Manual,Petrol,SUV
+46,Kia,1293,Seltos,1.5 HTE (O),5,Manual,Petrol,SUV
+47,Tata,1320,Tigor EV,XE,5,Automatic,Electric,Sedan
+48,Skoda,1807,Slavia,1.0 Prestige,5,Manual,Petrol,Sedan
+49,Skoda,2217,Kushaq,1.5 Prestige DSG,5,Automatic,Petrol,SUV
+50,Hyundai,753,Exter,1.2 EX(O),5,Manual,Petrol,SUV
+51,Maruti Suzuki,840,Fronx,1.2 Sigma,5,Manual,Petrol,SUV
+52,Maruti Suzuki,2916,Invicto,Zeta Plus 7 STR,7,Automatic,Petrol,SUV
+53,Hyundai,1446,Verna,1.5 S MT,5,Manual,Petrol,Sedan
+54,Skoda,4645,Kodiaq,L&K,7,Automatic,Petrol,SUV
+55,Tata,2056,Harrier,Pure (O),5,Manual,Diesel,SUV
+56,Mahindra,1693,Scorpio Classic,2.2 S 7STR,7,Manual,Diesel,SUV
+57,Hyundai,889,i20,1.2 Magna MT,5,Manual,Petrol,Hatchback
+58,Tata,1331,Punch EV,Empowered 3.3,5,Automatic,Electric,SUV
+59,Mahindra,1961,XUV400,EL Pro 34.5 kWh,5,Automatic,Electric,SUV
+60,Maruti Suzuki,1458,Jimny,Zeta,4,Manual,Petrol,SUV
+61,Mahindra,1349,XUV 3XO,1.2 AX5,5,Manual,Petrol,SUV
+62,Toyota,871,Urban Cruiser Taisor,1.2 E,5,Manual,Petrol,SUV
+63,Maruti Suzuki,641,Ignis,1.2 Sigma MT,5,Manual,Petrol,Hatchback
+64,Hyundai,1970,Creta N Line,N8,5,Manual,Petrol,SUV
+65,Maruti Suzuki,578,S-Presso,1.0 VXi,4,Manual,Petrol,SUV
+66,Volkswagen,1348,Virtus,1.0 Comfortline,5,Manual,Petrol,Sedan
+67,Volkswagen,1365,Taigun,1.0 Comfortline,5,Manual,Petrol,SUV
+68,Mahindra,1163,Bolero,B4,7,Manual,Diesel,SUV
+69,Mahindra,1441,Thar,1.5 AX(O) Hard Top Diesel,4,Manual,Diesel,SUV
+70,Tata,2979,Safari,Accomplished Plus Dark Edition,7,Manual,Diesel,SUV
+71,Toyota,5268,Fortuner Legender,2.8 4x2 AT,7,Automatic,Diesel,SUV
+72,Mahindra,1191,Bolero Neo,1.5 N4,7,Manual,Diesel,SUV
+73,Tata,1295,Curvv,1.2 Pure Plus,5,Manual,Petrol,SUV
+74,Hyundai,4772,IONIQ 5,RWD,5,Automatic,Electric,SUV
+75,Toyota,3959,Fortuner,2.7 4x2 MT,7,Manual,Petrol,SUV
+76,Tata,870,Tigor,XT CNG,5,Manual,CNG,Compact Sedan
+77,Tata,1072,Tiago EV,XT LR,5,Automatic,Electric,Hatchback
+78,Honda,922,Amaze,V,5,Manual,Petrol,Sedan
+79,Mahindra,2433,XEV 9e,Pack One,5,Automatic,Electric,SUV
+80,Nissan,764,Magnite,1.0 Visia Plus,5,Manual,Petrol,SUV
+81,Maruti Suzuki,876,Dzire,VXi,5,Manual,Petrol,Sedan
+82,Tata,560,Tiago,XE,5,Manual,Petrol,Hatchback
+83,Mahindra,2116,BE 6,Pack One,5,Automatic,Electric,SUV
+84,Mahindra,1857,Thar Roxx,2.0 MX3 AT,5,Automatic,Petrol,SUV
+85,Skoda,1340,Kylaq,Signature Plus,5,Manual,Petrol,SUV
+86,MG,1495,Windsor EV,Excite,5,Automatic,Electric,SUV
+87,Hyundai,2129,Creta Electric,Premium,5,Automatic,Electric,SUV
+88,Hyundai,1748,Alcazar,Executive,7,Manual,Petrol,SUV
+89,Nissan,920,Magnite (2020-2024),XV Red Edition,5,Manual,Petrol,SUV
+90,Audi,130,e-tron Sportback,55 Technology,5,Automatic,Electric,SUV
+91,Tata,999,Tiago NRG,XZA CNG,5,Automatic,CNG,Hatchback
+92,Porsche,176,718,Cayman Style Edition,2,Automatic,Petrol,Coupe
+93,Mercedes-Benz,5617,A-Class Limousine,200d,5,Automatic,Diesel,Sedan
+94,Porsche,378,911,Turbo S,24,Automatic,Petrol,Coupe
+95,Audi,115,Q7,Technology,7,Automatic,Petrol,SUV
+96,Mercedes-Benz,305,G-Class,G 400 d AMG Line,5,Automatic,Diesel,SUV
+97,Jeep,4217,Meridian,2.0 Limited Plus AT Diesel,57,Automatic,Diesel,SUV
+98,Porsche,154,Cayenne,Base,4,Automatic,Petrol,SUV
+99,Porsche,161,Cayenne Coupe,Base,4,Automatic,Petrol,Coupe
+100,Porsche,169,Macan,S,5,Automatic,Petrol,SUV
+101,Porsche,170,Macan Turbo EV,Electric SUV,5,Automatic,Electric,SUV
+102,Porsche,228,Panamera,G3,4,Automatic,Petrol,Coupe
+103,Porsche,251,Taycan,Turbo S,5,Automatic,Electric,Sedan
+104,BYD,5254,Sealion 7,Premium,5,Automatic,Electric,SUV
+105,BMW,233,M5,Competition,5,Automatic,Petrol,Sedan
+106,Land Rover,7873,Range Rover Evoque,SE R-Dynamic Diesel,5,Automatic,Diesel,SUV
+107,Audi,291,RS Q8 Performance,4.0 TFSI,5,Automatic,Petrol,Hatchback
+108,Land Rover,158,Defender,110 X 3.0 Diesel,5,Automatic,Diesel,SUV
+109,Land Rover,146,Discovery,S 3.0 Diesel,7,Automatic,Diesel,SUV
+110,Land Rover,320,Range Rover,SE LWB 4.4 Petrol 7 STR,57,Automatic,Petrol,SUV
+111,Land Rover,189,Range Rover Sport,SE Dynamic 3.0 Petrol,5,Automatic,Petrol,SUV
+112,Lotus,262,Eletre,Standard,4,Automatic,Electric,SUV
+113,McLaren,666,750S,Spider,2,Automatic,Petrol,Coupe
+114,Mercedes-Benz,8604,GLC,300 4MATIC,5,Automatic,Petrol,SUV
+115,Mercedes-Benz,8559,GLB,220d 4MATIC AMG Line,7,Automatic,Diesel,SUV
+116,BYD,2885,eMax 7,Premium 6 STR,67,Automatic,Electric,SUV
+117,Maserati,339,GranTurismo,Trofeo,45,Automatic,Petrol,Coupe
+118,Volvo,121,XC90,B5 Ultra,7,Automatic,Petrol,SUV
+119,Toyota,282,Land Cruiser,GR-S,5,Automatic,Diesel,SUV
+120,Mercedes-Benz,9211,E-Class,E200,5,Automatic,Petrol,Sedan
+121,Skoda,6286,Superb,L&K,5,Automatic,Petrol,Sedan
+122,Kia,140,EV9,GT-Line AWD,6,Automatic,Electric,SUV
+123,Kia,7690,Carnival,Limousine Plus,7,Automatic,Diesel,SUV
+124,Mercedes-Benz,421,AMG G-Class,G 63,5,Automatic,Petrol,SUV
+125,Mercedes-Benz,6487,GLA,220d 4MATIC,5,Automatic,Diesel,SUV
+126,Mercedes-Benz,131,GLE,450d 4MATIC LWB,5,Automatic,Diesel,SUV
+127,Toyota,4556,Hilux,Black Edition,5,Automatic,Diesel,Pick-Up
+128,BMW,7331,3 Series LWB,330Li M Sport,5,Automatic,Petrol,Sedan
+129,Citroen,1454,Aircross,1.2 Plus Turbo 7 STR,57,Manual,Petrol,SUV
+130,Lexus,373,LX,500d Overtrail,5,Automatic,Diesel,SUV
+131,Porsche,241,Taycan Cross Turismo,Turbo S,5,Automatic,Electric,Sedan
+132,Rolls-Royce,813,Cullinan,SUV,5,Automatic,Petrol,SUV
+133,Rolls-Royce,1111,Phantom,Sedan,5,Automatic,Petrol,SUV
+134,Rolls-Royce,802,Spectre,Coupe,4,Automatic,Electric,SUV
+135,Volvo,6512,C40 Recharge,E80,5,Automatic,Electric,SUV
+136,Volvo,5691,XC40 Recharge,Plus,5,Automatic,Electric,SUV
+137,Audi,184,A8 L,Technology,4,Automatic,Petrol,Sedan
+138,BMW,179,M4,Competition,4,Automatic,Petrol,Sedan
+139,Volvo,6023,EX40,Plus,5,Automatic,Electric,SUV
+140,BYD,2586,Atto 3,Dynamic,5,Automatic,Electric,SUV
+141,Force Motors,1972,Gurkha,3 Door (4-Seater),4,Manual,Diesel,SUV
+142,Force Motors,2120,Gurkha 5 Door,7 Seater,7,Manual,Diesel,SUV
+143,Isuzu,2484,V-Cross,Hi-Lander,5,Manual,Diesel,SUV
+144,Maserati,179,Grecale,Modena,5,Automatic,Petrol,SUV
+145,Jeep,8107,Wrangler,Rubicon,5,Automatic,Petrol,SUV
+146,Mercedes-Benz,147,AMG E53 Cabriolet,4MATIC Plus,4,Automatic,Petrol,Convertible
+147,Mercedes-Benz,429,AMG S 63 E Performance,Edition 1,5,Automatic,Petrol,Sedan
+148,Mercedes-Benz,7328,EQB,250 Plus,7,Automatic,Electric,SUV
+149,MINI,5113,Cooper,S,4,Automatic,Petrol,Hatchback
+150,BYD,4726,Seal,Premium,5,Automatic,Electric,Sedan
+151,Audi,7292,A6,Technology 45 TFSI,5,Automatic,Petrol,Sedan
+152,Audi,8012,Q5,Technology 45 TFSI,5,Automatic,Petrol,SUV
+153,Audi,118,Q8 e-tron,50,5,Automatic,Electric,SUV
+154,Audi,136,Q8 Sportback e-tron,55,5,Automatic,Electric,Sedan
+155,Audi,8764,S5 Sportback,3.0 TFSI Quattro,5,Automatic,Petrol,Coupe
+156,BMW,7175,3 Series Gran Limousine,320Ld M Sport,5,Automatic,Diesel,Coupe
+157,BMW,205,7 Series,740i M Sport,5,Automatic,Petrol,Sedan
+158,BMW,7472,i4,eDrive35 M Sport,5,Automatic,Electric,Sedan
+159,BMW,219,i7,xDrive60 M Sport,5,Automatic,Electric,Sedan
+160,BMW,124,iX,xDrive 40,5,Automatic,Electric,SUV
+161,BMW,113,M2,3.0 Petrol,4,Automatic,Petrol,Coupe
+162,BMW,8247,M340i,xDrive,5,Automatic,Petrol,Sedan
+163,BMW,6081,X1,sDrive18d M Sport,25,Automatic,Diesel,SUV
+164,Mercedes-Benz,167,EQS,580 4MATIC,5,Automatic,Electric,Sedan
+165,BMW,9918,X3 M40i,xDrive,5,Automatic,Petrol,SUV
+166,BMW,109,X4 M40i,xDrive,5,Automatic,Petrol,SUV
+167,BMW,114,X5,xDrive30d xLine,25,Automatic,Diesel,SUV
+168,Aston Martin,450,Vantage,V8,2,Automatic,Petrol,Coupe
+169,Citroen,918,Basalt,You,5,Manual,Petrol,SUV
+170,Ferrari,454,F8 Tributo,Berlinetta,2,Automatic,Petrol,Coupe
+171,Citroen,1032,C3,1.2 Shine Turbo,5,Manual,Petrol,SUV
+172,Ferrari,395,Portofino,M,24,Automatic,Petrol,Convertible
+173,Jaguar,8247,F-Pace,S R-Dynamic 2.0 Petrol,5,Automatic,Petrol,SUV
+174,Jaguar,129,I-Pace,HSE,25,Automatic,Electric,Coupe
+175,Jeep,9103,Grand Cherokee,Limited (O) 4x4 AT,5,Automatic,Petrol,SUV
+176,Audi,5511,Q3,40 TFSI Premium Plus,5,Automatic,Petrol,SUV
+177,Aston Martin,518,DB12,4.0-litre,4,Automatic,Petrol,Coupe
+178,Lamborghini,563,Huracan,STO,2,Automatic,Petrol,Coupe
+179,McLaren,420,GT,Coupe,2,Automatic,Petrol,Coupe
+180,Mercedes-Benz,106,AMG A45 S,4Matic Plus,5,Automatic,Petrol,Hatchback
+181,Mercedes-Benz,111,AMG C 43,4MATIC,5,Automatic,Petrol,Sedan
+182,Mercedes-Benz,159,GLS,450d 4MATIC,7,Automatic,Diesel,SUV
+183,BMW,8660,X3,xDrive20d M Sport Shadow Edition,5,Automatic,Diesel,SUV
+184,Mercedes-Benz,378,Maybach GLS,600 4MATIC,5,Automatic,Petrol,SUV
+185,Jeep,3299,Compass,2.0 Model S (O) Diesel,5,Manual,Diesel,SUV
+186,Citroen,4347,C5 Aircross,Shine,5,Automatic,Diesel,SUV
+187,Mercedes-Benz,7458,AMG GLA35,4MATIC,5,Automatic,Petrol,SUV
+188,Mercedes-Benz,6825,EQA,250 Plus,5,Automatic,Electric,SUV
+189,MINI,5668,Countryman Electric,E,5,Automatic,Electric,Hatchback
+190,Toyota,2278,Innova Hycross,2.0 G-SLF 7 STR CVT,78,Automatic,Petrol,SUV
+191,Mercedes-Benz,217,AMG GLE Coupe,53 4Matic Plus,5,Automatic,Petrol,Coupe
+192,Citroen,1296,E-C3,Live,5,Automatic,Electric,SUV
+193,Audi,6185,A4,Technology 40 TFSI,5,Automatic,Petrol,Sedan
+194,Aston Martin,522,DBX,707,5,Automatic,Petrol,SUV
+195,Audi,123,e-tron,55,5,Automatic,Electric,SUV
+196,Audi,177,e-tron GT,S,5,Automatic,Electric,Sedan
+197,Audi,6206,Q3 Sportback,Technology Plus S-line,5,Automatic,Petrol,SUV
+198,Volkswagen,4141,Tiguan,2.0 Elegance TSI AT,25,Automatic,Petrol,SUV
+199,Audi,132,RS5,Sportback,5,Automatic,Petrol,Coupe
+200,BMW,5207,2 Series Gran Coupe,220i M Sport Pro,5,Automatic,Petrol,Coupe
+201,BMW,275,M8,Coupe,4,Automatic,Petrol,Coupe
+202,BMW,103,Z4,M 40i,2,Automatic,Petrol,Convertible
+203,Ferrari,609,296 GTB,3.0 Petrol,2,Automatic,Petrol,Coupe
+204,Ferrari,704,296 GTS,3.0 Petrol,2,Automatic,Petrol,Convertible
+205,Isuzu,4419,MU-X,4x4 AT,7,Automatic,Diesel,SUV
+206,Kia,6805,EV6,GT Line AWD,5,Automatic,Electric,SUV
+207,BMW,6898,iX1,xDrive30 M Sport,5,Automatic,Electric,SUV
+208,Ferrari,424,Roma,Coupe,4,Automatic,Petrol,Coupe
+209,Audi,133,Q8,55 TFSI quattro,5,Automatic,Petrol,SUV
+210,Mahindra,1390,Bolero Neo Plus,P4,9,Manual,Diesel,SUV
+211,Bentley,676,Bentayga,EWB,5,Automatic,Petrol,SUV
+212,Land Rover,100,Range Rover Velar,HSE Dynamic 2.0 Petrol,5,Automatic,Petrol,SUV
+213,Mercedes-Benz,252,AMG EQS,53 4MATIC Plus,5,Automatic,Electric,Sedan
+214,Mercedes-Benz,372,AMG GT 63 S E Performance,Limousine,5,Automatic,Petrol,Sedan
+215,Mercedes-Benz,275,AMG SL55 Roadster,4MATIC Plus,4,Automatic,Petrol,Convertible
+216,Mercedes-Benz,7292,C-Class,C 220d,5,Automatic,Diesel,Sedan
+217,Mercedes-Benz,144,EQE SUV,500 4MATIC,5,Automatic,Electric,SUV
+218,Mercedes-Benz,129,AMG GLC43 Coupe,4MATIC,5,Automatic,Petrol,Coupe
+219,Mercedes-Benz,387,Maybach S-Class,S 680 4MATIC,5,Automatic,Petrol,Sedan
+220,Mercedes-Benz,210,S-Class,S 450 4MATIC,5,Automatic,Petrol,Sedan
+221,MG,2402,Hector Plus (2021-2023),2.0 Smart Turbo 6 STR,67,Manual,Diesel,SUV
+222,Tata,1823,Harrier (2020-2023),2.0 XE,5,Manual,Diesel,SUV
+223,Hyundai,1843,Creta (2023-2024),1.5 SX Executive Diesel,5,Manual,Diesel,SUV
+224,Audi,251,RS Q8 (2020-2025),4.0L TFSI,5,Automatic,Petrol,SUV
+225,Hyundai,2304,Alcazar (2021-2023),1.5 Platinum 7 STR Diesel,67,Manual,Diesel,SUV
+226,Kia,4123,Carnival (2020-2023),Limousine 7 Seater,79,Automatic,Diesel,SUV
+227,Toyota,2147,Innova Crysta (2020-2023),2.7 GX 7 STR Petrol,78,Manual,Petrol,SUV
+228,Maruti Suzuki,956,Swift (2021-2024),ZXi AMT,5,Automatic,Petrol,Hatchback
+229,Honda,1567,City (2020-2023),1.5 V CVT Petrol,5,Automatic,Petrol,Sedan
+230,Hyundai,2473,Alcazar (2023-2024),1.5 Platinum(O) AT 7 STR Diesel,67,Automatic,Diesel,SUV
+231,Mahindra,1319,XUV300,1.2 W8,25,Manual,Petrol,SUV
+232,Tata,1906,Nexon EV Max (2022-2023),XZ Plus 7.2 KW FC,5,Automatic,Electric,SUV
+233,Hyundai,982,Grand i10 Nios (2019-2023),1.2 Asta CNG,5,Manual,CNG,Hatchback
+234,Maruti Suzuki,367,Alto (2019-2023),STD,5,Manual,Petrol,Hatchback
+235,Volkswagen,1353,Virtus (2022-2023),1.0 Comfortline TSI,5,Manual,Petrol,Sedan
+236,Honda,1111,Jazz (2020-2023),VX CVT Petrol,5,Automatic,Petrol,Hatchback
+237,Audi,100,Q7 (2022-2024),Premium Plus 55 TFSI,7,Automatic,Petrol,SUV
+238,Tata,1461,Nexon (2020-2023),1.5 XZ Plus (S) Diesel,5,Manual,Diesel,SUV
+239,Hyundai,1370,Creta (2020-2023),1.5 EX Petrol,5,Manual,Petrol,SUV
+240,Hyundai,1673,Verna (2020-2023),1.5 CRDi SX AT,5,Automatic,Diesel,Sedan
+241,Kia,1467,Carens (2022-2023),1.5 Premium 7 STR Diesel,67,Manual,Diesel,SUV
+242,Hyundai,1106,Aura (2020-2023),1.2 SX+ CRDi AMT,5,Automatic,Diesel,Sedan
+243,Honda,998,Amaze (2021-2024),1.2 S CVT Petrol,5,Automatic,Petrol,Sedan
+244,Honda,1044,WR-V (2020-2023),SV MT Petrol,5,Manual,Petrol,SUV
+245,Tata,2169,Harrier (2023-2023),2.0 XMS,5,Manual,Diesel,SUV
+246,Hyundai,1197,Venue (2022-2023),1.0 S(O) iMT,5,Manual,Petrol,SUV
+247,Volkswagen,2214,Taigun (2021-2023),1.5 GT Plus TSI AT,25,Automatic,Petrol,SUV
+248,Skoda,1683,Slavia (2022-2023),1.0 Style TSI (Non-Sunroof),5,Manual,Petrol,Sedan
+249,Skoda,1822,Kushaq (2021-2023),1.0 Style NSR TSI,5,Manual,Petrol,SUV
+250,Tata,1543,Nexon EV Prime (2020-2023),XM,5,Automatic,Electric,SUV
+251,Hyundai,1190,New i20 (2020-2023),1.0 Asta Turbo GDI iMT,5,Manual,Petrol,Hatchback
+252,Skoda,3591,Octavia (2021-2023),2.0 L&K TSI,5,Automatic,Petrol,Sedan
+253,Skoda,1413,Rapid TSI (2021-2023),Matte Limited Edition,5,Manual,Petrol,Sedan
+254,Kia,1495,Seltos (2023-2023),1.5 HTE iMT Diesel,5,Manual,Diesel,SUV
+255,MG,2155,Hector (2021-2023),2.0 Shine Turbo,5,Manual,Diesel,SUV
+256,Skoda,4390,Superb (2021-2023),2.0 L&K TSI AT,5,Automatic,Petrol,Sedan
+257,Tata,857,Tiago EV (2022-2025),XE Medium,5,Automatic,Electric,Hatchback
+258,Tata,855,Tigor (2020-2025),XM Twin-Cylinder CNG,5,Manual,CNG,Sedan
+259,Hyundai,1433,i20 N Line (2021-2023),1.0 N8 DCT,5,Automatic,Petrol,Hatchback
+260,Kia,1272,Sonet (2020-2023),1.0 HTK Plus DCT,5,Automatic,Petrol,SUV
+261,Citroen,1627,C3 Aircross,1.2 Max Vibe Pack AT,57,Automatic,Petrol,SUV
+262,Tata,730,Tiago (2020-2025),XT,5,Manual,Petrol,Hatchback
+263,MG,1265,Astor (2021-2024),1.5 Style,5,Manual,Petrol,SUV
+264,Kia,1686,Seltos (2022-2023),1.5 HTX IVT,5,Automatic,Petrol,SUV
+265,Tata,749,Tiago NRG (2021-2025),1.2 XT,5,Manual,Petrol,Hatchback
+266,MG,2558,ZS EV (2021-2024),Exclusive Ivory,25,Automatic,Electric,SUV
+267,BMW,199,M4 Competition (2022-2024),M xDrive Coupe,4,Automatic,Petrol,Sedan
+268,Kia,1365,Sonet (2023-2024),1.5 HTK Plus iMT Diesel,5,Manual,Diesel,SUV
